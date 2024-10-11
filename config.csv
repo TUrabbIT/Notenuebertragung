@@ -1,0 +1,9 @@
+Parameter,Wert
+Dateipfad_Quelle,C:\Pfad\zu\DateiA.xlsx
+Worksheet_Quelle,Tabelle1
+Spalte_Matrikelnummer_Quelle,A
+Spalte_Note_Quelle,B
+Dateipfad_Ziel,C:\Pfad\zu\DateiB.xlsx
+Worksheet_Ziel,Tabelle2
+Spalte_Matrikelnummer_Ziel,A
+Spalte_Note_Ziel,D
